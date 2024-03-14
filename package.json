@@ -1,0 +1,19 @@
+{
+  "name": "cypresslearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "echo I am in pretest",
+    "posttest": "echo I am in posttest",
+    "test": "echo I am the test",
+    "Sayanava": "echo Hello Sayanava!",
+    "SayanavaCypressTests": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.7.0"
+  }
+}
